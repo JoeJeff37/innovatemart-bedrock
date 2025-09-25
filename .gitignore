@@ -1,0 +1,19 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfplan
+.terraform/
+.terraform.lock.hcl
+
+# AWS
+.aws/
+*.pem
+
+# IDE
+.Sublime Text/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
